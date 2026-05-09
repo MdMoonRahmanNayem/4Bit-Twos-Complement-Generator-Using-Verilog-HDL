@@ -93,7 +93,7 @@ The project includes:
 
 ```text id="e8hpt8"
 ├── README.md
-└── Project_Report.pdf
+└── Project Report.pdf
 ```
 
 ## Contributors
